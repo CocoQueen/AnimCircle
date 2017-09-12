@@ -3,4 +3,14 @@
     <dimen name="width">10dp</dimen>
     <dimen name="width1">1dp</dimen>
     <dimen name="radius">50dp</dimen>
+    <dimen name="paintWidth">2dp</dimen>
+    <dimen name="borderWidth">1dp</dimen>
+    <dimen name="minLength">7dp</dimen>
+    <dimen name="midLength">12dp</dimen>
+    <dimen name="maxLength">14dp</dimen>
+    <dimen name="textSize">15dp</dimen>
+    <dimen name="secondPointSize">1dp</dimen>
+    <dimen name="minPointSize">3dp</dimen>
+    <dimen name="hourPointSize">5dp</dimen>
+
 </resources>
